@@ -8,10 +8,10 @@ Interesso-me por **Inteligência Artificial, Machine Learning, Data Warehousing 
 
 ### 🔧 Tecnologias
 
-**Linguagens:** Python · SQL · C · C++ · JavaScript · MATLAB · HTML/CSS
-**IA e Dados:** TensorFlow/Keras · scikit-learn · pandas · NumPy · Matplotlib · Power BI · Orange
-**Bases de dados:** SQL Server · MySQL
-**Outras:** React · OutSystems · Salesforce · Ollama
+- **Linguagens:** Python · SQL · C · C++ · JavaScript · MATLAB · HTML/CSS
+- **IA e Dados:** TensorFlow/Keras · scikit-learn · pandas · NumPy · Matplotlib · Power BI · Orange
+- **Bases de dados:** SQL Server · MySQL
+- **Outras:** React · OutSystems · Salesforce · Ollama
 
 ### 📌 Projetos em destaque
 
