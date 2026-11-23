@@ -2,9 +2,9 @@
 
 Estudante do 3.º ano de **Engenharia Informática** no ISEC (Instituto Superior de Engenharia de Coimbra), no ramo de Sistemas de Informação.
 
-Interesso-me por **Inteligência Artificial, Machine Learning, Data Warehousing e Engenharia e Análise de Dados**. Procuro um **estágio curricular** nestas áreas.
+Interesso-me por **Inteligência Artificial, Machine Learning, Data Warehousing e Engenharia e Análise de Dados**.
 
-*Informatics Engineering student at ISEC (Portugal), interested in AI, Machine Learning and Data. Looking for a curricular internship.*
+*Informatics Engineering student at ISEC (Portugal), interested in AI, Machine Learning and Data.*
 
 ### 🔧 Tecnologias
 
